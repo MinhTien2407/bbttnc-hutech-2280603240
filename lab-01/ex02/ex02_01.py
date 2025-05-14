@@ -1,3 +1,3 @@
-ten = input (" Nhap ten cua ban")
-tuoi = input (" nhap tuoi cua ban ")
-print (" Chao mung", ten, " ! Ban" , tuoi, " tuoi")
+ten = input (" Nhập tên của bạn: ")
+tuoi = input ("Nhập tuổi của bạn: ")
+print (" Chào mừng ", ten, " ! Bạn" , tuoi, " tuổi")

@@ -1,4 +1,4 @@
-input_str = input ("nhap X, Y: ")
+input_str = input ("Nhập X, Y: ")
 dimension= [int(x) for x in input_str.split (',')]
 rowNum= dimension [0]
 colNum= dimension [1]
