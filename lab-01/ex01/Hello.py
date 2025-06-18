@@ -1,0 +1,5 @@
+print("hello word")
+print(" my name is Trần Minh Tiến")
+print("class 22DTHH1")
+print("mssv: 2280603240")
+print(" Hutech University")
